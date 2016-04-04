@@ -1,3 +1,1 @@
-        --env 'PG_PASSWORD=local-admin' \
-        --env 'DB_USER=admin' --env 'DB_PASS=local-admin' \
-        --env 'DB_NAME=maindb' \
+--env 'PG_PASSWORD=local-admin' --env 'DB_USER=admin' --env 'DB_PASS=local-admin' --env 'DB_NAME=maindb'
